@@ -1,0 +1,7 @@
+C:\Users\André\source\repos\ProjOO\Principio_Fachada\Principio_Fachada\bin\Debug\Principio_Fachada.exe.config
+C:\Users\André\source\repos\ProjOO\Principio_Fachada\Principio_Fachada\bin\Debug\Principio_Fachada.exe
+C:\Users\André\source\repos\ProjOO\Principio_Fachada\Principio_Fachada\bin\Debug\Principio_Fachada.pdb
+C:\Users\André\source\repos\ProjOO\Principio_Fachada\Principio_Fachada\obj\Debug\Principio_Fachada.csproj.AssemblyReference.cache
+C:\Users\André\source\repos\ProjOO\Principio_Fachada\Principio_Fachada\obj\Debug\Principio_Fachada.csproj.CoreCompileInputs.cache
+C:\Users\André\source\repos\ProjOO\Principio_Fachada\Principio_Fachada\obj\Debug\Principio_Fachada.exe
+C:\Users\André\source\repos\ProjOO\Principio_Fachada\Principio_Fachada\obj\Debug\Principio_Fachada.pdb
